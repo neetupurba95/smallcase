@@ -1,0 +1,78 @@
+{
+    "root": {
+        "folder": {
+            "Songs": {
+                "fileInfo": {
+                    "Name": "songs.html",
+                    "Creator": "Ankur",
+                    "Size": "54kb",
+                    "Date": "Aug 24 2019"
+                },
+                "file": {
+                    "f1": {
+                        "fileInfo": {
+                            "Name": "f1.html",
+                            "Creator": "Ankur",
+                            "Size": "54kb",
+                            "Date": "Aug 24 2019"
+                        }
+                    },
+                    "f2": {
+                        "fileInfo": {
+                            "Name": "f2.html",
+                            "Creator": "Ankur",
+                            "Size": "54kb",
+                            "Date": "Aug 24 2019"
+                        }
+                    }
+                },
+                "folder": {
+                    "Animals": {
+                        "fileInfo": {
+                            "Name": "animals.html",
+                            "Creator": "Ankur",
+                            "Size": "54kb",
+                            "Date": "Aug 24 2019"
+                        },
+                        "file": [],
+                        "folder": {
+                            "cats": {
+                                "fileInfo": {
+                                    "Name": "cats.html",
+                                    "Creator": "Ankur",
+                                    "Size": "54kb",
+                                    "Date": "Aug 24 2019"
+                                }
+                            }
+                        }
+                    },
+                    "Plants": {
+                        "fileInfo": {
+                            "Name": "plants.html",
+                            "Creator": "Ankur",
+                            "Size": "54kb",
+                            "Date": "Aug 24 2019"
+                        }
+                    }
+                }
+            },
+            "Movies": {
+                "fileInfo": {
+                    "Name": "movies.html",
+                    "Creator": "Ankur",
+                    "Size": "54kb",
+                    "Date": "Aug 24 2019"
+                }
+            },
+            "Videos": {
+                "fileInfo": {
+                    "Name": "video.html",
+                    "Creator": "Ankur",
+                    "Size": "54kb",
+                    "Date": "Aug 24 2019"
+                }
+            }
+        },
+        "file": {}
+    }
+}
